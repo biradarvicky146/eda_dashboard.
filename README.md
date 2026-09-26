@@ -98,3 +98,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - Dataset: [Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams) by Royce Kimmons (via Kaggle)
 - Built with Flask, Pandas, NumPy, Matplotlib, and Seaborn
 -
+##Objective
+The main objective of the project is to analyze data, visualize important patterns, and present useful insights for better decision making.
+##Author
+Veerabhadreshwar
